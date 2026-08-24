@@ -680,4 +680,4 @@ GitHub:\
 https://github.com/bemos-7
 
 Репозиторий проекта:\
-https://github.com/bemos-7/MiniOledDisplayManager
+https://github.com/bemos-7/OledStudio
